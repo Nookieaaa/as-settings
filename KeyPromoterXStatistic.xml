@@ -6,7 +6,7 @@
           <IdeaActionID>ActivateAndroidMonitorToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Android Monitor</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Changes...">
