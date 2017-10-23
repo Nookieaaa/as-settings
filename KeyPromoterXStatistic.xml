@@ -6,7 +6,7 @@
           <IdeaActionID>ActivateAndroidMonitorToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Android Monitor</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Changes...">
@@ -30,7 +30,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>72</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'timeentry in app'">
