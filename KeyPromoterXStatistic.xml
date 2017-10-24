@@ -6,7 +6,7 @@
           <IdeaActionID>ActivateAndroidMonitorToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Android Monitor</Description>
-          <Count>49</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Changes...">
@@ -30,7 +30,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>77</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'timeentry in app'">
@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -318,7 +318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>88</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
