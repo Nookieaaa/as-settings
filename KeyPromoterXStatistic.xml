@@ -102,7 +102,7 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>28</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
