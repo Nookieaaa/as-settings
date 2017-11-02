@@ -17,6 +17,14 @@
           <Count>24</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
@@ -38,7 +46,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>248</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'timeentry in app'">
@@ -94,7 +102,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>90</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -102,7 +110,7 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -334,7 +342,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
