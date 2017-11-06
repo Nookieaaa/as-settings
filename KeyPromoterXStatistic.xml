@@ -46,7 +46,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>294</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'timeentry in app'">
@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -89,12 +89,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit...">
+        <Item>
+          <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Edit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Favorites">
         <Item>
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Home Directory">
@@ -110,7 +118,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>130</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -390,7 +398,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -398,7 +406,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>347</Count>
+          <Count>353</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo">
