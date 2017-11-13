@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>346</Count>
+          <Count>347</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'timeentry in app'">
@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>180</Count>
+          <Count>183</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -430,7 +430,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>73</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
