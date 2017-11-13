@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>171</Count>
+          <Count>173</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -326,7 +326,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>68</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'checkLunch()'">
