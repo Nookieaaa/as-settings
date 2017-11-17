@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>432</Count>
+          <Count>435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'timeentry in app'">
@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>262</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -134,7 +134,7 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -342,7 +342,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>162</Count>
+          <Count>170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'checkLunch()'">
