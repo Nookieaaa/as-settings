@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>436</Count>
+          <Count>438</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'timeentry in app'">
