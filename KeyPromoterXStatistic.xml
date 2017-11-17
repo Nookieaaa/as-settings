@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>259</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -342,7 +342,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>151</Count>
+          <Count>153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'checkLunch()'">
@@ -438,7 +438,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
