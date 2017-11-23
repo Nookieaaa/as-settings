@@ -134,7 +134,7 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>45</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -350,7 +350,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>205</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'checkLunch()'">
@@ -478,7 +478,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
