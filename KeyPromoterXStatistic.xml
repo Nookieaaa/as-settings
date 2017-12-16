@@ -70,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>486</Count>
+          <Count>490</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'noteDetails_Displa...()'">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>286</Count>
+          <Count>288</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -486,7 +486,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>561</Count>
+          <Count>562</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo">
