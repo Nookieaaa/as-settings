@@ -70,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>529</Count>
+          <Count>530</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'noteDetails_Displa...()'">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>296</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
