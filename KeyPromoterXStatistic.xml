@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit Changes...</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -70,7 +70,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'app'</Description>
-          <Count>571</Count>
+          <Count>573</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'noteDetails_Displa...()'">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>315</Count>
+          <Count>316</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
